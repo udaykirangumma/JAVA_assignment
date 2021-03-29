@@ -1,0 +1,8 @@
+Take integer input
+Define an array and array list with primitive and object datatypes (int double float long)
+print a pattern (1 to n to 1)
+1
+1 2
+1 2 3
+1 2
+1
